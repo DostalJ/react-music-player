@@ -57,8 +57,8 @@ import {
   uuId,
 } from './utils'
 
-import 'rc-slider/assets/index.css'
-import 'rc-switch/assets/index.css'
+// import 'rc-slider/assets/index.css'
+// import 'rc-switch/assets/index.css'
 
 const IS_MOBILE = getIsMobile()
 
