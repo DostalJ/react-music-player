@@ -1,8 +1,8 @@
 /node_modules/
-lib
-es
-dist
-assets
+#lib
+#es
+#dist
+#assets
 npm-debug.log
 .DS_Store
 .history
