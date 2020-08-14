@@ -23,7 +23,7 @@
 }
 .react-jinke-music-player-main .loading svg {
   font-size: 24px;
-  color: #31c27c;
+  color: #3D5AF5;
 }
 .react-jinke-music-player-main .translate {
   -webkit-animation: translate 350ms cubic-bezier(0.43, -0.1, 0.16, 1.1) forwards;
@@ -267,7 +267,7 @@
   width: 100%;
   height: 35px;
   line-height: 35px;
-  background-color: #31c27c;
+  background-color: #3D5AF5;
   color: #fff;
   padding: 0 20px;
   z-index: 1000;
@@ -421,13 +421,13 @@
 }
 .react-jinke-music-player-mobile-progress .rc-slider-handle,
 .react-jinke-music-player-mobile-progress .rc-slider-track {
-  background-color: #31c27c;
+  background-color: #3D5AF5;
 }
 .react-jinke-music-player-mobile-progress .rc-slider-handle {
   border: 2px solid #fff;
 }
 .react-jinke-music-player-mobile-progress .rc-slider-handle:active {
-  box-shadow: 0 0 2px #31c27c;
+  box-shadow: 0 0 2px #3D5AF5;
 }
 .react-jinke-music-player-mobile-switch {
   -webkit-animation: fromDown 350ms cubic-bezier(0.43, -0.1, 0.16, 1.1) forwards;
@@ -520,7 +520,7 @@
   }
 }
 .audio-lists-panel-drag-line {
-  border: 1px solid #31c27c !important;
+  border: 1px solid #3D5AF5 !important;
 }
 .audio-lists-panel {
   overflow: hidden;
@@ -653,7 +653,7 @@
 }
 .audio-lists-panel-content .audio-item.playing,
 .audio-lists-panel-content .audio-item.playing svg {
-  color: #31c27c;
+  color: #3D5AF5;
 }
 .audio-lists-panel-content .audio-item.remove {
   -webkit-animation: remove 350ms cubic-bezier(0.43, -0.1, 0.16, 1.1) forwards;
@@ -685,7 +685,7 @@
 }
 .audio-lists-panel-content .audio-item:hover .group:not([class='.player-delete']) svg,
 .audio-lists-panel-content .audio-item:active .group:not([class='.player-delete']) svg {
-  color: #31c27c;
+  color: #3D5AF5;
 }
 .audio-lists-panel-content .audio-item .group {
   display: inline-flex;
@@ -719,7 +719,7 @@
 }
 .react-jinke-music-player-main ::-webkit-scrollbar-thumb {
   height: 20px;
-  background-color: #31c27c;
+  background-color: #3D5AF5;
   opacity: 0.5;
 }
 .react-jinke-music-player-main ::-webkit-scrollbar {
@@ -731,11 +731,11 @@
 }
 .react-jinke-music-player-main .lyric-btn-active,
 .react-jinke-music-player-main .lyric-btn-active svg {
-  color: #31c27c !important;
+  color: #3D5AF5 !important;
 }
 .react-jinke-music-player-main .music-player-lyric {
   position: fixed;
-  color: #31c27c;
+  color: #3D5AF5;
   font-size: 36px;
   cursor: move;
   z-index: 998;
@@ -802,7 +802,7 @@
 }
 .react-jinke-music-player-main svg:hover,
 .react-jinke-music-player-main svg:active {
-  color: #31c27c;
+  color: #3D5AF5;
 }
 @media screen and (max-width: 767px) {
   .react-jinke-music-player-main svg {
@@ -849,13 +849,13 @@
 }
 .react-jinke-music-player-main .music-player-panel .panel-content .rc-slider-handle,
 .react-jinke-music-player-main .music-player-panel .panel-content .rc-slider-track {
-  background-color: #31c27c;
+  background-color: #3D5AF5;
 }
 .react-jinke-music-player-main .music-player-panel .panel-content .rc-slider-handle {
   border: 2px solid #fff;
 }
 .react-jinke-music-player-main .music-player-panel .panel-content .rc-slider-handle:active {
-  box-shadow: 0 0 2px #31c27c;
+  box-shadow: 0 0 2px #3D5AF5;
 }
 .react-jinke-music-player-main .music-player-panel .panel-content .img-content {
   width: 50px;
@@ -930,7 +930,7 @@
   top: 0;
   transition: width 350ms cubic-bezier(0.43, -0.1, 0.16, 1.1);
   background: linear-gradient(135deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 31%, rgba(0, 0, 0, 0.05) 33%, rgba(0, 0, 0, 0.05) 67%, rgba(0, 0, 0, 0) 69%);
-  background-color: #31c27c;
+  background-color: #3D5AF5;
 }
 .react-jinke-music-player-main .music-player-panel .panel-content .progress-bar-content .progress-bar .progress .progress-change {
   position: absolute;
@@ -990,7 +990,7 @@
 }
 .react-jinke-music-player-main .music-player-panel .panel-content .player-content > .group > i {
   cursor: pointer;
-  color: #31c27c;
+  color: #3D5AF5;
   font-size: 25px;
   vertical-align: middle;
 }
@@ -1013,7 +1013,7 @@
   font-size: 26px;
 }
 .react-jinke-music-player-main .music-player-panel .panel-content .player-content .loop-btn.active {
-  color: #31c27c;
+  color: #3D5AF5;
 }
 .react-jinke-music-player-main .music-player-panel .panel-content .player-content .play-sounds {
   align-items: center;
@@ -1044,7 +1044,7 @@
 }
 .react-jinke-music-player-main .music-player-panel .panel-content .player-content .audio-lists-btn > .group:hover,
 .react-jinke-music-player-main .music-player-panel .panel-content .player-content .audio-lists-btn > .group:hover > svg {
-  color: #31c27c;
+  color: #3D5AF5;
 }
 .react-jinke-music-player-main .music-player-panel .panel-content .player-content .audio-lists-btn .audio-lists-num {
   margin-left: 8px;
@@ -1057,11 +1057,11 @@
   transition: background-color 350ms cubic-bezier(0.43, -0.1, 0.16, 1.1);
 }
 .react-jinke-music-player-main.light-theme svg {
-  color: #31c27c;
+  color: #3D5AF5;
 }
 .react-jinke-music-player-main.light-theme svg:hover,
 .react-jinke-music-player-main.light-theme svg:active {
-  color: #3ece89;
+  color: #556ff6;
 }
 .react-jinke-music-player-main.light-theme .rc-slider-rail {
   background-color: rgba(0, 0, 0, 0.09) !important;
@@ -1085,8 +1085,8 @@
   background-color: #fff;
 }
 .react-jinke-music-player-main.light-theme .rc-switch-checked {
-  background-color: #31c27c !important;
-  border: 1px solid #31c27c;
+  background-color: #3D5AF5 !important;
+  border: 1px solid #3D5AF5;
 }
 .react-jinke-music-player-main.light-theme .rc-switch-inner {
   color: #fff;
@@ -1119,7 +1119,7 @@
 }
 .react-jinke-music-player-main.light-theme .audio-lists-panel .audio-item.playing,
 .react-jinke-music-player-main.light-theme .audio-lists-panel .audio-item.playing svg {
-  color: #31c27c !important;
+  color: #3D5AF5 !important;
 }
 @media screen and (max-width: 767px) {
   .react-jinke-music-player-main.light-theme .audio-lists-panel .audio-item {
@@ -1130,7 +1130,7 @@
   }
   .react-jinke-music-player-main.light-theme .audio-lists-panel .audio-item.playing,
   .react-jinke-music-player-main.light-theme .audio-lists-panel .audio-item.playing svg {
-    color: #31c27c !important;
+    color: #3D5AF5 !important;
   }
 }
 .react-jinke-music-player-main.light-theme .audio-lists-panel-header {
@@ -1152,16 +1152,16 @@
 }
 .react-jinke-music-player-main.light-theme .audio-item:hover svg,
 .react-jinke-music-player-main.light-theme .audio-item:active svg {
-  color: #31c27c;
+  color: #3D5AF5;
 }
 .react-jinke-music-player-main.light-theme .audio-item.playing {
   background-color: #fafafa !important;
 }
 .react-jinke-music-player-main.light-theme .audio-item.playing svg {
-  color: #31c27c;
+  color: #3D5AF5;
 }
 .react-jinke-music-player-main.light-theme .audio-item.playing .player-singer {
-  color: #31c27c !important;
+  color: #3D5AF5 !important;
 }
 .react-jinke-music-player-main.light-theme .audio-item .player-singer {
   color: rgba(162, 162, 162, 0.45) !important;
@@ -1197,7 +1197,7 @@
 }
 .react-jinke-music-player-main.light-theme .play-mode-title {
   background-color: #fff;
-  color: #31c27c;
+  color: #3D5AF5;
 }
 .react-jinke-music-player {
   position: fixed;
@@ -1237,7 +1237,7 @@
   border-radius: 50%;
   border: 1px solid #e6e6e6;
   background-color: #e6e6e6;
-  color: #31c27c;
+  color: #3D5AF5;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
   font-size: 20px;
   text-align: center;
@@ -1308,7 +1308,7 @@
 .react-jinke-music-player .music-player-controller .music-player-controller-setting {
   width: 100%;
   height: 100%;
-  background: rgba(49, 194, 124, 0.3);
+  background: rgba(61, 90, 245, 0.3);
   transform: scale(0);
   border-radius: 50%;
   transition: all 0.4s cubic-bezier(0.43, -0.1, 0.16, 1.1);
@@ -1337,7 +1337,7 @@
   stroke: #fff;
 }
 .react-jinke-music-player .audio-circle-process-bar circle[class='stroke'] {
-  stroke: #31c27c;
+  stroke: #3D5AF5;
 }
 .react-jinke-music-player .audio-circle-process-bar,
 .react-jinke-music-player .audio-circle-process-bar circle {
